@@ -1,0 +1,4 @@
+C:\Users\이나린\source\repos\Review\Debug\Review.exe
+C:\Users\이나린\source\repos\Review\Debug\Review.pdb
+C:\Users\이나린\Desktop\2020\Programming\C\Review\Debug\Review.exe
+C:\Users\이나린\Desktop\2020\Programming\C\Review\Debug\Review.pdb

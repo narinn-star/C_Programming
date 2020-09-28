@@ -30,5 +30,20 @@
     <ClCompile Include="BAEKJOON_[No.10869].c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BAEKJOON_[No2557].c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON_[No.10718].c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON_[No.10171].c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON_[No.10430].c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BAEKJOON_[No.2588].c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,0 +1,2 @@
+C:\Users\이나린\Desktop\2020\Programming\C\Study\[BAEKJOON]\for문\Debug\for문.exe
+C:\Users\이나린\Desktop\2020\Programming\C\Study\[BAEKJOON]\for문\Debug\for문.pdb

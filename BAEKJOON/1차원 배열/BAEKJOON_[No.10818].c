@@ -1,7 +1,7 @@
 #include <stdio.h>
 int arr[1000000];
 int main() {
-	int max, min;
+	int max = 0, min = 0;
 	int N;
 	scanf_s("%d", &N);
 

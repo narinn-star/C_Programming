@@ -1,0 +1,4 @@
+﻿  17_01.c
+C:\Users\이나린\Desktop\20.12.06 세미나\20.12.06 세미나\17_01.c(47,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이나린\Desktop\20.12.06 세미나\20.12.06 세미나\17_01.c(48,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  20.12.06 세미나.vcxproj -> C:\Users\이나린\Desktop\20.12.06 세미나\Debug\20.12.06 세미나.exe
